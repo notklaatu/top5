@@ -1,47 +1,72 @@
 We all want Red Hat curriculum to be informative, useful, and exciting
-for our students. For that to work, it has to be clear and concise, and it needs to inspire confidence.
+for our students. For that to work, it has to be clear and concise,
+and it needs to inspire confidence.
 
-Content Services is here to help. Specifically, we've come up with a Top 5 list of writing tips to make your job easier and more efficient.
+Content Services is here to help. Specifically, we've come up with a
+Top 5 list of writing tips to make your job easier and more efficient.
 
 
 1. Write bad
 
-You're smart. Really smart. You shouldn't have to think about boring stuff like proper English when you're writing code and config files.
+You're smart. Really smart. You shouldn't have to think about boring
+stuff like proper English when you're writing code and config files.
 
 So don't.
 
-When you're writing a chapter, write naturally. Don't worry about the details yet.
+When you're writing a chapter, write naturally. Don't worry about the
+details yet.
 
 When you're finished, stop. Don't hit 'send' yet.
 
-Take a few hours to proofread what you've just written. This is time to think about how sentences can be rewritten, to check spelling, to fix punctuation.
+Take a few hours to proofread what you've just written. This is time
+to think about how sentences can be rewritten, to check spelling, to
+fix punctuation.
 
-It's a two-stage process: the First Draft, and the Editor Draft. If you do this, then the editors are very likely to send back a Final Draft that you can merge without making any further changes.
+It's a two-stage process: the First Draft, and the Editor Draft. If
+you do this, then the editors are very likely to send back a Final
+Draft that you can merge without making any further changes.
 
 2. Write less
 
-While clarity in writing documentation is of the utmost importance, especially when the documentation is of a technical inclination (or is otherwise to be used for technical training or referencing), it is in fact of perhaps greater importance that a writer endeavour to keep their narrative production brief and relatively simple, for the sake of their audience (such as it is).
+While clarity in writing documentation is of the utmost importance,
+especially when the documentation is of a technical inclination (or is
+otherwise to be used for technical training or referencing), it is in
+fact of perhaps greater importance that a writer endeavour to keep
+their narrative production brief and relatively simple, for the sake
+of their audience (such as it is).
 
 Or, said another way: Less is more.
 
-The less you write, the easier it is for your readers to comprehend what you're saying. If a reader wants more, they can reread your short sentences over and over again.
+The less you write, the easier it is for your readers to comprehend
+what you're saying. If a reader wants more, they can reread your short
+sentences over and over again.
 
 
 3. Spell check
 
-You shouldn't have to think about spelling while writing your first draft, so don't.
+You shouldn't have to think about spelling while writing your first
+draft, so don't.
 
-Then again, you also shouldn't have to think about spelling during your editor draft, either. That's what computers are for.
+Then again, you also shouldn't have to think about spelling during
+your editor draft, either. That's what computers are for.
 
 Use spell check.
 
 4. Cheat
 
-Cheatsheets are great ways to get things right with the least possible amount of effort. Especially during your first draft, the last thing you want to do is bring evrything to a grinding, uninspired halt because you can't remember whether it's "plugin" or "plug-in" (it's "plug-in").
+Cheatsheets are great ways to get things right with the least possible
+amount of effort. Especially during your first draft, the last thing
+you want to do is bring evrything to a grinding, uninspired halt
+because you can't remember whether it's "plugin" or "plug-in" (it's
+"plug-in").
 
-So keep some cheatsheets close at hand. You can write down common mistakes in a notebook on your desk, and bookmark important, quick and easy-to-use sites like titlecase.com or the Product List (http://red.ht/productnames)
+So keep some cheatsheets close at hand. You can write down common
+mistakes in a notebook on your desk, and bookmark important, quick and
+easy-to-use sites like titlecase.com or the Product List
+(http://red.ht/productnames)
 
-If something is distracting or it slows you down, then it's not a cheatsheet. Save it as a resource for the editor draft.
+If something is distracting or it slows you down, then it's not a
+cheatsheet. Save it as a resource for the editor draft.
 
 5. Ask
 
